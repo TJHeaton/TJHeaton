@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TJHeaton
-- 👀 I’m interested in statistics, radiocarbon, and geoscience
-- 🌱 I’m currently working on the radiocarbon calibration curves and range of other geosicence and statistics projects
-- 💞️ I’m looking to collaborate on interesting projects at the interface of statistics and geoscience
+- 👀 I’m interested in statistics, radiocarbon, archaeology, and geoscience
+- 🌱 I’m currently working on the INTCAL radiocarbon calibration curves and range of other archaeological, geoscientific and statistical projects
+- 💞️ I’m looking to collaborate on interesting projects at the interface of statistics, archaeology and geoscience
 - 📫 How to reach me: t.heaton@leeds.ac.uk
 
 <!---
